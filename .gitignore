@@ -1,0 +1,7 @@
+.DS_Store
+.*
+!.gitignore
+/Ex2/fruit_data.pt
+/Ex2/labels.pt
+*.pdf
+.idea/
